@@ -27,6 +27,11 @@ Agora que não há nenhum arquivo aberto, siga os seguintes passos:
 <u>***DICA:***</u>
 Se o seu Simulado for a _Prova A_, **exclua** a pasta que contém os arquivos da _Prova B_. Do contrário também, ou seja, se o seu Simulado for a _Prova B_, **exclua** a pasta que contém os arquivos da _Prova A_.
 
+Ao finalizar os exercícios, não esqueça de enviar os arquivos para o Google Sala de Aula (_Google Classroom_) para que possas finalizar o simulado e obter a sua nota.
+
+### **<u>IMPORTANTE:</u>**
+
+> **É um simulado, porém será muito útil para que possamos identificar se há alguma dificuldade em relação ao conteúdo que foi ministrado até o momento.** 
 
 # 
 # **<u>Bom simulado a todos!</u>**
