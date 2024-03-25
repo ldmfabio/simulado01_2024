@@ -25,8 +25,8 @@ Agora que não há nenhum arquivo aberto, siga os seguintes passos:
 
 
 <u>***DICA:***</u>
-Se a sua Prova for a _Prova A_, **exclua** a pasta que contém os arquivos da _Prova B_. Do contrário também, ou seja, se a sua for a _Prova B_, **exclua** a pasta que contém os arquivos da _Prova A_.
+Se o seu Simulado for a _Prova A_, **exclua** a pasta que contém os arquivos da _Prova B_. Do contrário também, ou seja, se o seu Simulado for a _Prova B_, **exclua** a pasta que contém os arquivos da _Prova A_.
 
 
 # 
-# **<u>Boa prova a todos!</u>**
+# **<u>Bom simulado a todos!</u>**
